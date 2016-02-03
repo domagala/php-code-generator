@@ -17,7 +17,7 @@
 		"symfony/options-resolver" : "~2.0|~3.0",
 		"phootwork/file" : "~0",
 		"phootwork/tokenizer" : "~0",
-		"nikic/php-parser" : "~1"
+		"nikic/php-parser" : "~0.9"
 	},
 	"suggest" : {
 		"gossi/php-code-formatter" : "Formatting your generated code"
